@@ -19,7 +19,7 @@ def save_image(image_url, file_name):
 # 이미지 검색
 url = "https://dapi.kakao.com/v2/search/image"
 headers = {
-  "Authorization" : "KakaoAK d25b08df8451cba8e8dc5d0e6233d08d"
+  "Authorization" : "KakaoAK <REST API KEY>"
 }
 
 data = {
